@@ -1,0 +1,58 @@
+{
+  "users":[
+    {"firstName": "John",
+    "lastName":"Doe",
+    "email":"john@gmail.com",
+    "companyId":"1"
+  }
+  ],
+  "Centrevacances":[
+    {"id":1,"Nom":"whenighan0","adresse":"6968 Stang Hill","ville":"Siwa Oasis","longitude":25.5195451,"latitude":29.2031708,"description":"multiple pools","note":2.1,"mention":1.8,"categorie_id":1},
+    {"id":2,"Nom":"ahartfield1","adresse":"99853 Ridge Oak Way","ville":"Patsi","longitude":44.4364706,"latitude":-12.1584708,"description":"Family-friendly resort with spacious rooms","note":2.9,"mention":3.6,"categorie_id":1},
+    {"id":3,"Nom":"adews2","adresse":"86840 Rigney Plaza","ville":"Monkey Hill","longitude":-62.7250402,"latitude":17.3239734,"description":"Family-friendly resort with spacious rooms","note":4.6,"mention":3.5,"categorie_id":4},
+    {"id":4,"Nom":"jlazarus3","adresse":"30 Manufacturers Junction","ville":"Skórzec","longitude":22.0951156,"latitude":52.0969643,"description":"Family-friendly resort with spacious rooms","note":1.1,"mention":0.6,"categorie_id":5},
+    {"id":5,"Nom":"chelliwell4","adresse":"72298 Miller Street","ville":"Madimba","longitude":40.333333,"latitude":-10.4,"description":"and a variety of activities for all ages.","note":1.1,"mention":0.5,"categorie_id":1},
+    {"id":6,"Nom":"kdrugan5","adresse":"3 Thierer Place","ville":"Taguisa","longitude":121.0230236,"latitude":14.570844,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":1.1,"mention":3.4,"categorie_id":1},
+    {"id":7,"Nom":"etwidale6","adresse":"1 Village Crossing","ville":"Portobelo","longitude":-79.6530174,"latitude":9.5488889,"description":"Modern hotel with sleek design and convenient location near popular attractions and restaurants.","note":1.6,"mention":4.0,"categorie_id":1},
+    {"id":8,"Nom":"fscedall7","adresse":"99210 Anzinger Junction","ville":"Margasana","longitude":109.1374653,"latitude":-7.532337,"description":"Modern hotel with sleek design and convenient location near popular attractions and restaurants.","note":3.2,"mention":4.6,"categorie_id":2},
+    {"id":9,"Nom":"cfearns8","adresse":"79 Haas Drive","ville":"Janas","longitude":-9.4383868,"latitude":38.8247852,"description":"multiple pools","note":0.7,"mention":4.6,"categorie_id":3},
+    {"id":10,"Nom":"spedlar9","adresse":"70 Mockingbird Circle","ville":"Ülken","longitude":73.9309807,"latitude":45.2068153,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":4.7,"mention":0.6,"categorie_id":1},
+    {"id":11,"Nom":"swinstonea","adresse":"2958 Magdeline Trail","ville":"Weitang","longitude":120.649341,"latitude":31.463475,"description":"Cozy boutique hotel in the heart of downtown with personalized service and stylish decor.","note":1.6,"mention":4.3,"categorie_id":5},
+    {"id":12,"Nom":"fconochieb","adresse":"07 Dixon Junction","ville":"Fada N'gourma","longitude":0.3654204,"latitude":12.0601649,"description":"Family-friendly resort with spacious rooms","note":2.5,"mention":3.1,"categorie_id":1},
+    {"id":13,"Nom":"ncossorc","adresse":"108 Bunker Hill Court","ville":"New Orleans","longitude":-90.1999318,"latitude":29.9640473,"description":"and a variety of activities for all ages.","note":3.6,"mention":5.0,"categorie_id":5},
+    {"id":14,"Nom":"rmanaghd","adresse":"0 Forest Pass","ville":"La Paz","longitude":-56.2338461,"latitude":-34.7486079,"description":"Family-friendly resort with spacious rooms","note":1.1,"mention":1.3,"categorie_id":3},
+    {"id":15,"Nom":"nloachee","adresse":"9 Derek Pass","ville":"Xilin Hot","longitude":116.086032,"latitude":43.933411,"description":"Family-friendly resort with spacious rooms","note":4.6,"mention":4.2,"categorie_id":2},
+    {"id":16,"Nom":"sbavagef","adresse":"6 Park Meadow Way","ville":"Liuqiao","longitude":107.649938,"latitude":22.259725,"description":"Luxurious hotel with stunning views of the city skyline and top-notch amenities.","note":4.6,"mention":2.3,"categorie_id":1},
+    {"id":17,"Nom":"rspong","adresse":"7647 Rusk Place","ville":"San Rafael","longitude":121.0190818,"latitude":14.5697429,"description":"Modern hotel with sleek design and convenient location near popular attractions and restaurants.","note":3.3,"mention":1.8,"categorie_id":5},
+    {"id":18,"Nom":"dserviceh","adresse":"4 Kenwood Alley","ville":"Cotorra","longitude":-75.790511,"latitude":9.039263,"description":"Family-friendly resort with spacious rooms","note":4.4,"mention":1.9,"categorie_id":2},
+    {"id":19,"Nom":"rclaypoolei","adresse":"7 South Junction","ville":"Jablonec nad Nisou","longitude":15.1765093,"latitude":50.7193517,"description":"and a variety of activities for all ages.","note":2.7,"mention":3.4,"categorie_id":2},
+    {"id":20,"Nom":"nhickissonj","adresse":"3958 Farwell Circle","ville":"Sorang","longitude":66.923684,"latitude":48.019573,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":3.0,"mention":0.3,"categorie_id":2},
+    {"id":21,"Nom":"bsavagek","adresse":"7733 Bunting Junction","ville":"Minle","longitude":100.812859,"latitude":38.430793,"description":"Family-friendly resort with spacious rooms","note":1.9,"mention":1.5,"categorie_id":2},
+    {"id":22,"Nom":"dbakerl","adresse":"856 Village Green Way","ville":"Tumpukrenteng","longitude":112.6943559,"latitude":-8.128563,"description":"Luxurious hotel with stunning views of the city skyline and top-notch amenities.","note":3.6,"mention":4.6,"categorie_id":1},
+    {"id":23,"Nom":"jschrirenm","adresse":"1 Oriole Center","ville":"Naukot","longitude":69.4620073,"latitude":24.8388207,"description":"Family-friendly resort with spacious rooms","note":4.7,"mention":1.7,"categorie_id":1},
+    {"id":24,"Nom":"rstendelln","adresse":"2 Oriole Street","ville":"Nanyuan","longitude":116.3877778,"latitude":39.7825,"description":"Cozy boutique hotel in the heart of downtown with personalized service and stylish decor.","note":1.4,"mention":1.5,"categorie_id":1},
+    {"id":25,"Nom":"mbrimo","adresse":"20212 Elka Point","ville":"Omaha","longitude":-95.9991228,"latitude":41.2101217,"description":"and a variety of activities for all ages.","note":2.8,"mention":4.0,"categorie_id":1},
+    {"id":26,"Nom":"npieronip","adresse":"0 Stoughton Crossing","ville":"Ryczów","longitude":19.5512903,"latitude":49.9805725,"description":"Modern hotel with sleek design and convenient location near popular attractions and restaurants.","note":1.7,"mention":1.3,"categorie_id":5},
+    {"id":27,"Nom":"jghidelliq","adresse":"46686 Grasskamp Road","ville":"Wangdun","longitude":99.679959,"latitude":36.409259,"description":"and a variety of activities for all ages.","note":2.0,"mention":2.0,"categorie_id":2},
+    {"id":28,"Nom":"adurwardr","adresse":"08 Old Shore Plaza","ville":"La Cocha","longitude":-65.0008956,"latitude":-31.7306526,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":0.5,"mention":3.7,"categorie_id":3},
+    {"id":29,"Nom":"krickets","adresse":"698 Londonderry Hill","ville":"Alta Gracia","longitude":-58.5278307,"latitude":-34.6104702,"description":"Luxurious hotel with stunning views of the city skyline and top-notch amenities.","note":4.0,"mention":4.6,"categorie_id":4},
+    {"id":30,"Nom":"cosgart","adresse":"6799 Kensington Crossing","ville":"San Ignacio","longitude":-89.0800227,"latitude":17.1522786,"description":"Family-friendly resort with spacious rooms","note":1.7,"mention":5.0,"categorie_id":1},
+    {"id":31,"Nom":"pramstedu","adresse":"5670 Arkansas Court","ville":"Tongmuluo","longitude":111.984823,"latitude":25.994869,"description":"Cozy boutique hotel in the heart of downtown with personalized service and stylish decor.","note":2.5,"mention":1.4,"categorie_id":2},
+    {"id":32,"Nom":"egettingsv","adresse":"35672 Melrose Way","ville":"Komiža","longitude":16.0917932,"latitude":43.0444596,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":4.6,"mention":1.8,"categorie_id":2},
+    {"id":33,"Nom":"amckibbenw","adresse":"69 Derek Terrace","ville":"Knoxville","longitude":-83.99,"latitude":35.94,"description":"Luxurious hotel with stunning views of the city skyline and top-notch amenities.","note":1.9,"mention":4.2,"categorie_id":2},
+    {"id":34,"Nom":"tvareyx","adresse":"580 8th Parkway","ville":"Wololele A","longitude":121.918866,"latitude":-8.7394711,"description":"multiple pools","note":3.1,"mention":1.3,"categorie_id":3},
+    {"id":35,"Nom":"sshyrey","adresse":"14926 Schlimgen Terrace","ville":"Karang Kulon","longitude":110.1317822,"latitude":-7.5989183,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":4.8,"mention":1.8,"categorie_id":4},
+    {"id":36,"Nom":"jandragz","adresse":"802 Hallows Drive","ville":"Tríkala","longitude":21.7678951,"latitude":39.5557317,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":3.6,"mention":2.7,"categorie_id":2},
+    {"id":37,"Nom":"stomasino10","adresse":"54 Northridge Avenue","ville":"La Mohammedia","longitude":10.1535196,"latitude":36.6755608,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":0.6,"mention":2.3,"categorie_id":2},
+    {"id":38,"Nom":"hyurkiewicz11","adresse":"063 Village Drive","ville":"Xinlin","longitude":-74.0186386,"latitude":40.7773081,"description":"Charming bed and breakfast with a homey atmosphere and delicious homemade breakfasts.","note":3.4,"mention":1.8,"categorie_id":5},
+    {"id":39,"Nom":"rlanahan12","adresse":"3 Anzinger Court","ville":"Al Manşūrah","longitude":31.3784704,"latitude":31.0409483,"description":"Cozy boutique hotel in the heart of downtown with personalized service and stylish decor.","note":1.3,"mention":3.9,"categorie_id":1},
+    {"id":40,"Nom":"bliptrod13","adresse":"488 Melrose Avenue","ville":"Lyubech","longitude":30.6625433,"latitude":51.700259,"description":"Modern hotel with sleek design and convenient location near popular attractions and restaurants.","note":0.6,"mention":4.9,"categorie_id":1}
+  ],
+  "Categorie":[
+    {"id":1,"nom_categorie":"Hôtel","logo":"image001.jpg"},
+    {"id":2,"nom_categorie":"4 Riad","logo":"image002.jpg"},
+    {"id":3,"nom_categorie":"Auberge","logo":"image003.jpg"},
+    {"id":4,"nom_categorie":"Villa","logo":"image004.jpg"},
+    {"id":5,"nom_categorie":"Appartement","logo":"image005.jpg"}
+  ]
+}
