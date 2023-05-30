@@ -180,9 +180,9 @@
     {"idCarte":3,"datePerte":"16/05/2023","statut":"traitée","estSupprime":false}
   ],
   "VisioRDV":[
-    {"idRDV":"RDV1","date":"04/08/2023","titre":"Attestation","sujet":"Visionary cohesive structure","statut":"traitée","estSupprime":false,"id_demandeur":"1"},
-    {"idRDV":"RDV2","date":"04/04/2023","titre":"Programme RDN","sujet":"Programmable global function","statut":"traitée","estSupprime":true,"id_demandeur":"1"},
-    {"idRDV":"RDV3","date":"03/06/2023","titre":"Programme X","sujet":"User-friendly foreground policy","statut":"en cours de traitement","estSupprime":false,"id_demandeur":"1"}
+    {"idRDV":"RDV1","date":"04/08/2023","titre":"Attestation","sujet":"Visionary cohesive structure","statut":"traitée","estSupprime":false,"id_demandeur":"1","Reponse":"Un mail a été envoyé"},
+    {"idRDV":"RDV2","date":"04/04/2023","titre":"Programme RDN","sujet":"Programmable global function","statut":"traitée","estSupprime":true,"id_demandeur":"1","Reponse":"Un mail a été envoyé"},
+    {"idRDV":"RDV3","date":"03/06/2023","titre":"Programme X","sujet":"User-friendly foreground policy","statut":"en cours de traitement","estSupprime":false,"id_demandeur":"1","Reponse":""}
   ],
   "Centrevacances":[
     {"id":1,"Nom":"whenighan0","adresse":"6968 Stang Hill","ville":"Siwa Oasis","longitude":25.5195451,"latitude":29.2031708,"description":"multiple pools","note":2.1,"mention":1.8,"categorie_id":1},
