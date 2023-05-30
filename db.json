@@ -168,11 +168,11 @@
     {"id":"D10","type":"Attestation de pension","statut":"en cours de traitement","date":"24/10/2022","estSupprime":false,"id_demandeur":"4","url_demande":"http://.*\\.pdf"}
   ],
   "Bulletins":[
-    {"idBulletin":"b152","date":"06/10/2022","satut":"traitée","estSupprime":true,"url_bulletin":"http://.*\\.pdf","id_demandeur":14},
-    {"idBulletin":"b349","date":"23/12/2022","satut":"en cours de traitement","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":35},
-    {"idBulletin":"b103","date":"13/07/2022","satut":"traitée","estSupprime":false,"url_bulletin":"https://.*\\.pdf","id_demandeur":30},
-    {"idBulletin":"b980","date":"02/01/2023","satut":"traitée","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":3},
-    {"idBulletin":"b238","date":"27/07/2022","satut":"en cours de traitement","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":21}
+    {"idBulletin":"b1","date":"06/10/2022","satut":"traitée","estSupprime":true,"url_bulletin":"http://.*\\.pdf","id_demandeur":1},
+    {"idBulletin":"b2","date":"23/12/2022","satut":"en cours de traitement","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":1},
+    {"idBulletin":"b3","date":"13/07/2022","satut":"traitée","estSupprime":false,"url_bulletin":"https://.*\\.pdf","id_demandeur":1},
+    {"idBulletin":"b4","date":"02/01/2023","satut":"traitée","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":3},
+    {"idBulletin":"b5","date":"27/07/2022","satut":"en cours de traitement","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":21}
   ],
   "DemandeCarte":[
     {"idCarte":1,"datePerte":"25/09/2022","statut":"traitée","estSupprime":false},
