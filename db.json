@@ -72,7 +72,7 @@
     {"id":"b1","année":"2022","mois":"janvier","type":"Bulletin de paie","satut":"traitée","estSupprime":true,"url_bulletin":"http://.*\\.pdf","id_demandeur":1,"date_demande":"13/12/2022"},
     {"id":"b2","année":"2022","mois":"mars","type":"Bulletin de paie","satut":"en cours de traitement","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":1,"date_demande":"13/12/2022"},
     {"id":"b3","année":"2022","mois":"juillet","type":"Bulletin de paie","satut":"traitée","estSupprime":false,"url_bulletin":"https://.*\\.pdf","id_demandeur":1,"date_demande":"13/12/2022"},
-    {"id":"b4","année":"2022","mois":"novembre","type":"Bulletin de paie","satut":"traitée","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":3,"date_demande":"13/12/2022"},
+    {"id":"b4","année":"2022","mois":"novembre","type":"Bulletin de paie","satut":"traitée","estSupprime":false,"url_bulletin":"https://.*\\.pdf","id_demandeur":3,"date_demande":"13/12/2022"},
     {"id":"b5","année":"2023","mois":"avril","type":"Bulletin de paie","satut":"en cours de traitement","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":1,"date_demande":"13/4/2023"}
   ],
   "DemandeCarte":[
