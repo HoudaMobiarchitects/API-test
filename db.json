@@ -42,9 +42,9 @@
     {"id":"b5","année":"2023","mois":"avril","type":"Bulletin de paie","satut":"en cours de traitement","estSupprime":true,"url_bulletin":"https://.*\\.pdf","id_demandeur":1,"date_demande":"13/4/2023"}
   ],
   "DemandeCarte":[
-    {"id":1,"datePerte":"25/09/2022","statut":"traitée","estSupprime":false},
-    {"id":2,"datePerte":"07/01/2023","statut":"en cours de traitement","estSupprime":true},
-    {"id":3,"datePerte":"16/05/2023","statut":"traitée","estSupprime":false}
+    {"id":1,"datePerte":"25/09/2022","statut":"traitée","estSupprime":false,"id_demandeur":"1"},
+    {"id":2,"datePerte":"07/01/2023","statut":"en cours de traitement","estSupprime":true,"id_demandeur":"2"},
+    {"id":3,"datePerte":"16/05/2023","statut":"traitée","estSupprime":false,"id_demandeur":"3"}
   ],
   "VisioRDV":[
     {"id":"RDV1","date":"04/08/2023","titre":"Attestation","sujet":"Visionary cohesive structure","statut":"traitée","estSupprime":false,"id_demandeur":"1","Reponse":"Un mail a été envoyé"},
